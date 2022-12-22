@@ -1,0 +1,1709 @@
+.mediaViewInfo {
+    --web-view-name: Home (Laptop) – 31;
+    --web-view-id: Home_Laptop__31;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Home_Laptop__31;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Home_Laptop__31 {
+    position: absolute;
+    width: 1906px;
+    height: 3329px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Home (Laptop) – 31;
+    --web-view-id: Home_Laptop__31;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Group_104 {
+    position: absolute;
+    width: 1906px;
+    height: 462px;
+    left: 0px;
+    top: 2870px;
+    overflow: visible;
+}
+#Rectangle_52 {
+    fill: rgba(41,40,40,1);
+}
+.Rectangle_52 {
+    position: absolute;
+    overflow: visible;
+    width: 1906px;
+    height: 462px;
+    left: 0px;
+    top: 0px;
+}
+#Support {
+    left: 609px;
+    top: 2940px;
+    position: absolute;
+    overflow: visible;
+    width: 168px;
+    white-space: nowrap;
+    line-height: 137px;
+    margin-top: -47.5px;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    color: rgba(247,240,240,1);
+    letter-spacing: 0.5px;
+}
+#Contact_Us {
+    left: 628px;
+    top: 3023px;
+    position: absolute;
+    overflow: visible;
+    width: 128px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgba(255,255,255,1);
+}
+#Shop_and_Learn {
+    left: 174px;
+    top: 2940px;
+    position: absolute;
+    overflow: visible;
+    width: 326px;
+    white-space: nowrap;
+    line-height: 137px;
+    margin-top: -47.5px;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    color: rgba(247,240,240,1);
+    letter-spacing: 0.5px;
+}
+#Sign_up {
+    left: 204px;
+    top: 3023px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgba(255,255,255,1);
+}
+#Sign_in {
+    left: 204px;
+    top: 3083px;
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgba(255,255,255,1);
+}
+#Item_lists {
+    left: 207px;
+    top: 3143px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgba(255,255,255,1);
+}
+#Copyright__2021_HIVE_Techwear_ {
+    left: 26px;
+    top: 3270px;
+    position: absolute;
+    overflow: visible;
+    width: 1279px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 26px;
+    color: rgba(255,255,255,1);
+}
+#Line_132 {
+    fill: transparent;
+    stroke: rgba(248,240,240,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_132 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    left: 1248.5px;
+    top: 3273.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_133 {
+    fill: transparent;
+    stroke: rgba(248,240,240,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_133 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    left: 1118.5px;
+    top: 3273.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_134 {
+    fill: transparent;
+    stroke: rgba(248,240,240,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_134 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    left: 1194.5px;
+    top: 3273.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_17 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(248,240,240,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_17 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    left: 808.5px;
+    top: 3273.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_135 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 0.5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_135 {
+    overflow: visible;
+    position: absolute;
+    width: 1847px;
+    height: 0.5px;
+    left: 25.5px;
+    top: 3246.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#icons8-facebook-150_1 {
+    opacity: 0.672;
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 1730px;
+    top: 3179px;
+    overflow: visible;
+}
+#icons8-instagram-150 {
+    opacity: 0.672;
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 1806px;
+    top: 3179px;
+    overflow: visible;
+}
+#Line_152 {
+    fill: transparent;
+    stroke: rgba(55,56,54,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_152 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 2172px;
+    left: 455px;
+    top: 360px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Category_Lists {
+    left: 32px;
+    top: 360px;
+    position: absolute;
+    overflow: visible;
+    width: 407px;
+    height: 89px;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(55,56,54,1);
+}
+#Womens {
+    left: 565px;
+    top: 200px;
+    position: absolute;
+    overflow: visible;
+    width: 291px;
+    white-space: nowrap;
+    line-height: 120px;
+    margin-top: -25px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(55,56,54,1);
+}
+#Line_154 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_154 {
+    overflow: visible;
+    position: absolute;
+    width: 395px;
+    height: 1px;
+    left: 32.5px;
+    top: 571.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_155 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_155 {
+    overflow: visible;
+    position: absolute;
+    width: 395px;
+    height: 1px;
+    left: 32.5px;
+    top: 648.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Line_156 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_156 {
+    overflow: visible;
+    position: absolute;
+    width: 395px;
+    height: 1px;
+    left: 32.5px;
+    top: 724px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Shirts {
+    left: 78px;
+    top: 514px;
+    position: absolute;
+    overflow: visible;
+    width: 102px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 40px;
+    color: rgba(55,56,54,1);
+}
+#download {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 365px;
+    top: 512px;
+    overflow: visible;
+}
+#Bottoms {
+    left: 78px;
+    top: 598px;
+    position: absolute;
+    overflow: visible;
+    width: 148px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 40px;
+    color: rgba(55,56,54,1);
+}
+#download_bo {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 365px;
+    top: 593px;
+    overflow: visible;
+}
+#Hats {
+    left: 78px;
+    top: 675px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 40px;
+    color: rgba(55,56,54,1);
+}
+#download_bq {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 365px;
+    top: 670px;
+    overflow: visible;
+}
+#TECHshop {
+    left: 56px;
+    top: 17px;
+    position: absolute;
+    overflow: visible;
+    width: 151px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31px;
+    color: rgba(255,255,255,1);
+}
+#outline_shopping_bag_white_48d {
+    position: absolute;
+    width: 38px;
+    height: 37px;
+    left: 1838px;
+    top: 18px;
+    overflow: visible;
+}
+#n__ {
+    left: 414px;
+    top: 32px;
+    position: absolute;
+    overflow: visible;
+    width: 13px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255,255,255,1);
+}
+#Path_22 {
+    fill: rgba(255,255,255,1);
+}
+.Path_22 {
+    filter: drop-shadow(0px 3px 10px rgba(41, 40, 40, 0.706));
+    overflow: visible;
+    position: absolute;
+    width: 1936px;
+    height: 94px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Sign_In {
+    left: 1542px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(55,56,54,1);
+}
+#Sign_Up {
+    left: 1668px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(55,56,54,1);
+}
+#Rectangle_386 {
+    opacity: 0.7;
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_386 {
+    position: absolute;
+    overflow: visible;
+    width: 369px;
+    height: 46px;
+    left: 1129px;
+    top: 9px;
+}
+#Search {
+    left: 1159px;
+    top: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 64px;
+    white-space: nowrap;
+    line-height: 26px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 1px;
+}
+#Group_143 {
+    position: absolute;
+    width: 20.5px;
+    height: 20.5px;
+    left: 1460px;
+    top: 20px;
+    overflow: visible;
+}
+#Ellipse_14 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Ellipse_14 {
+    position: absolute;
+    overflow: visible;
+    width: 16px;
+    height: 16px;
+    left: 0px;
+    top: 0px;
+}
+#Line_126 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_126 {
+    overflow: visible;
+    position: absolute;
+    width: 11.242px;
+    height: 11.242px;
+    left: 13.5px;
+    top: 13.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#local_mall_black_24dp {
+    position: absolute;
+    width: 34.586px;
+    height: 34.586px;
+    left: 1803px;
+    top: 15.957px;
+    overflow: visible;
+}
+#Path_19 {
+    fill: transparent;
+}
+.Path_19 {
+    overflow: visible;
+    position: absolute;
+    width: 34.586px;
+    height: 34.586px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_20 {
+    fill: rgba(92,93,91,1);
+}
+.Path_20 {
+    overflow: visible;
+    position: absolute;
+    width: 25.939px;
+    height: 30.263px;
+    left: 4.323px;
+    top: 1.441px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#HIVE_Techwear {
+    left: 35px;
+    top: 6px;
+    position: absolute;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Zen Dots;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(55,56,54,1);
+    letter-spacing: 0.1px;
+}
+#Adidas_Yeezy {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 558px;
+    top: 880px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_b {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 551px;
+    top: 2350px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_ca {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1017px;
+    top: 880px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_cb {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1471px;
+    top: 880px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_cc {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1010px;
+    top: 2350px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_cd {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1464px;
+    top: 2350px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_originals_men {
+    left: 558px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_cd {
+    left: 551px;
+    top: 2399px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_ce {
+    left: 1017px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_cf {
+    left: 1471px;
+    top: 929px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_cg {
+    left: 1010px;
+    top: 2399px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_ch {
+    left: 1464px;
+    top: 2399px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500 {
+    left: 546px;
+    top: 986px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_cj {
+    left: 539px;
+    top: 2456px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_ck {
+    left: 1005px;
+    top: 986px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_cl {
+    left: 1459px;
+    top: 986px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_cm {
+    left: 998px;
+    top: 2456px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_cn {
+    left: 1452px;
+    top: 2456px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Group_144 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 793px;
+    top: 972px;
+    overflow: visible;
+}
+#Rectangle_255 {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255 {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add_ {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_146 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 793px;
+    top: 2442px;
+    overflow: visible;
+}
+#Rectangle_255_cs {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_cs {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__ct {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_145 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1252px;
+    top: 972px;
+    overflow: visible;
+}
+#Rectangle_255_cv {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_cv {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__cw {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_148 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1705px;
+    top: 972px;
+    overflow: visible;
+}
+#Rectangle_255_cy {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_cy {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__cz {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_147 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1252px;
+    top: 2442px;
+    overflow: visible;
+}
+#Rectangle_255_c {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_c {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__c {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_149 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1706px;
+    top: 2442px;
+    overflow: visible;
+}
+#Rectangle_255_da {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_da {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__da {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_153 {
+    position: absolute;
+    width: 431px;
+    height: 63px;
+    left: 738px;
+    top: 2735px;
+    overflow: visible;
+}
+#Rectangle_192 {
+    fill: rgba(213,219,230,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_192 {
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#n_ {
+    left: 24px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_193 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_193 {
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 63px;
+    left: 93px;
+    top: 0px;
+}
+#n__da {
+    left: 111px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_196 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_196 {
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 63px;
+    left: 370px;
+    top: 0px;
+}
+#n__dc {
+    opacity: 0.8;
+    left: 389px;
+    top: 19px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_194 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_194 {
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 63px;
+    left: 186px;
+    top: 0px;
+}
+#n__de {
+    left: 205px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_195 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_195 {
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    height: 63px;
+    left: 278px;
+    top: 0px;
+}
+#Text {
+    left: 292px;
+    top: 22px;
+    position: absolute;
+    overflow: visible;
+    width: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    color: rgba(0,0,0,1);
+}
+#Group_227 {
+    position: absolute;
+    width: 422px;
+    height: 88px;
+    left: 33px;
+    top: 182px;
+    overflow: visible;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Home__Laptop____27.html;
+    cursor: pointer;
+}
+#Rectangle_433 {
+    fill: rgba(55,56,54,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_433 {
+    position: absolute;
+    overflow: visible;
+    width: 422px;
+    height: 88px;
+    left: 0px;
+    top: 0px;
+}
+#FILTER_BY_GENDER {
+    left: 48px;
+    top: 33px;
+    position: absolute;
+    overflow: visible;
+    width: 239px;
+    white-space: nowrap;
+    line-height: 120px;
+    margin-top: -47.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#arrow_drop_down_white_24dp {
+    position: absolute;
+    width: 86.617px;
+    height: 86.617px;
+    left: 318.383px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_37 {
+    fill: transparent;
+}
+.Path_37 {
+    overflow: visible;
+    position: absolute;
+    width: 86.617px;
+    height: 86.617px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_38 {
+    fill: rgba(255,255,255,1);
+}
+.Path_38 {
+    overflow: visible;
+    position: absolute;
+    width: 36.091px;
+    height: 18.045px;
+    left: 25.264px;
+    top: 36.09px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Adidas_Yeezy_dn {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 555px;
+    top: 1620px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_do {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1011px;
+    top: 1620px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_Yeezy_dp {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    left: 1465px;
+    top: 1620px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    line-height: 93px;
+    margin-top: -31px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 31px;
+    color: rgba(55,56,54,1);
+}
+#Adidas_originals_men_dq {
+    left: 555px;
+    top: 1669px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_dr {
+    left: 1011px;
+    top: 1669px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Adidas_originals_men_ds {
+    left: 1465px;
+    top: 1669px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_dt {
+    left: 543px;
+    top: 1726px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_du {
+    left: 999px;
+    top: 1726px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#n_500_dv {
+    left: 1449px;
+    top: 1714px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    line-height: 92px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 23px;
+    color: rgba(57,59,57,1);
+}
+#Group_150 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 797px;
+    top: 1712px;
+    overflow: visible;
+}
+#Rectangle_255_dx {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_dx {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__dy {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_151 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1253px;
+    top: 1712px;
+    overflow: visible;
+}
+#Rectangle_255_d {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_d {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__d {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Group_152 {
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: 1707px;
+    top: 1712px;
+    overflow: visible;
+}
+#Rectangle_255_ea {
+    fill: rgba(55,56,54,1);
+}
+.Rectangle_255_ea {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 130px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Add__ea {
+    left: 31px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    line-height: 87px;
+    margin-top: -34.5px;
+    text-align: center;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+#Mask_Group_152 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 540px;
+    top: 405px;
+    overflow: visible;
+}
+#Mask_Group_153 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 996px;
+    top: 405px;
+    overflow: visible;
+}
+#Mask_Group_154 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 1450px;
+    top: 405px;
+    overflow: visible;
+}
+#Mask_Group_155 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 544px;
+    top: 1098px;
+    overflow: visible;
+}
+#Mask_Group_156 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 985px;
+    top: 1098px;
+    overflow: visible;
+}
+#Mask_Group_157 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 1450px;
+    top: 1098px;
+    overflow: visible;
+}
+#Mask_Group_158 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 535px;
+    top: 1875px;
+    overflow: visible;
+}
+#Mask_Group_159 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 991px;
+    top: 1875px;
+    overflow: visible;
+}
+#Mask_Group_160 {
+    position: absolute;
+    width: 372px;
+    height: 453px;
+    left: 1445px;
+    top: 1875px;
+    overflow: visible;
+}
